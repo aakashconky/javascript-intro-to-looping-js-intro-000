@@ -17,10 +17,8 @@ return 'done';
 }
 
 function doWhileLoop(num) {
-  var i = 0;		v
-
-
-  function incrementVariable() {
+  var i = 0;		
+function incrementVariable() {
     i = i + 1;
       return i;
 	}
